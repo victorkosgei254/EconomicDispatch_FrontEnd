@@ -235,7 +235,7 @@ function App() {
             ))}
         </tbody>
       </Table>
-      <p>Developed by Kosgei Victor &copy; 2022</p>
+      <p>Proudly Developed by Kosgei Victor &copy; 2022</p>
     </Container>
   );
 }
